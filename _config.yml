@@ -1,7 +1,7 @@
 name: tonosama
 favicon: null
-layout_spectrum: 0.12127
-typography_spectrum: 0.49398
+layout_spectrum: 0.0054
+typography_spectrum: 0.47346
 title: tonosama
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3a3a3c'
     - '#58575d'
     - '#6f6d6e'
-  brandStrength: 0.4375
-  lightness: 0.25
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
