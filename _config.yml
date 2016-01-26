@@ -1,7 +1,7 @@
 name: tonosama
 favicon: null
-layout_spectrum: 0.20697
-typography_spectrum: 0.50846
+layout_spectrum: 0.10558
+typography_spectrum: 0.47346
 title: tonosama
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
     - '#fffeff'
-    - '#848b97'
-    - '#766500'
-    - '#97005d'
-  brandStrength: 0.875
+    - '#002300'
+    - '#4b9100'
+    - '#a6aeff'
+    - '#f6d900'
+  brandStrength: 0.5
   lightness: 0.375
   saturation: 0.3125
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
