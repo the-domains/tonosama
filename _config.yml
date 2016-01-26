@@ -1,0 +1,28 @@
+name: tonosama
+favicon: null
+layout_spectrum: 0.5698278765194118
+typography_spectrum: 0.5420011538080871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9821275314316154
+  lightness: 0.369562087347731
+  saturation: 0.10872708703391254
+  rhythmicContrast: 0.7230005988385528
+purpose: []
