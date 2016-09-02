@@ -1,4 +1,5 @@
-analytics: {}
+layout_spectrum: 0.231981
+typography_spectrum: 0.421573679195717
 color:
   brandColors:
     - '#A8B8D0'
@@ -10,9 +11,8 @@ color:
   lightness: 0.375
   rhythmicContrast: 0.5
   saturation: 0.5
+analytics: {}
 cta: {}
-layout_spectrum: 0.231981
 name: 'tonosama '
 opengraph: {}
 purpose: []
-typography_spectrum: 0.41554
